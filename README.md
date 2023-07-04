@@ -116,7 +116,7 @@
       </th>
   </table>
   <h6>
-    👩‍💻 sou bom em alguma? não, mas desenrolo se precisar.
+    👩‍💻 Sou bom em alguma? não, mas aprendo, precisando ou não.
   </h6>
 </div>
 
@@ -127,7 +127,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" width="40" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" />
 
 
- ![Snake animation](https://github.com/walesson-sg/walesson-sg/blob/output/github-contribution-grid-snake.svg)
+ <!-- ![Snake animation](https://github.com/walesson-sg/walesson-sg/blob/output/github-contribution-grid-snake.svg) -->
 
 
 
