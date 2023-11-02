@@ -8,7 +8,7 @@
 
 <div> 
   <h2>
-    JÁ MEXI COM
+    TECNOLOGIAS OS QUAIS JÁ TRABALHEI
   </h2>
   <table>
 <!--Linha 1-->
