@@ -1,6 +1,4 @@
-# Olá, eu sou Walesson Samuel 👋
-
-### Desenvolvedor Java | Backend | Full Stack
+### Walesson Samuel - Desenvolvedor Java | Backend | Full Stack
 
 Sou formado em Engenharia de Software pela Universidade Federal do Ceará (UFC) e atuo no desenvolvimento de aplicações web, com foco no ecossistema Java.
 
