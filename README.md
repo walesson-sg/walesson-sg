@@ -1,96 +1,55 @@
-###  <a href="https://instagram.com/walesson.samuel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lllll" height="40" width="40" /></a> <a href="https://discord.gg/Walesson#6136" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Walesson#6136" height="50" width="50" /></a>  <a href="https://www.facebook.com/walesson.samuel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="walesson.samuel" height="40" width="40" /></a> <a href="https://linkedin.com/in/walesson-samuel-085781186/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="walesson.in" height="30" width="40" /></a>
+# Olá, eu sou Walesson Samuel 👋
 
-# Hi, I'm Walesson Samuel 👋
+### Desenvolvedor Java | Backend | Full Stack
 
-### Java Backend Developer
+Sou formado em Engenharia de Software pela Universidade Federal do Ceará (UFC) e atuo no desenvolvimento de aplicações web, com foco no ecossistema Java.
 
-Software Engineer graduated from the Federal University of Ceará (UFC).
+Tenho experiência profissional com Java, Spring Boot, Spring Data JPA, SQL, Vue.js, Docker, Git e GitLab, participando do desenvolvimento de funcionalidades, integração de APIs REST, migração de bancos de dados e manutenção de aplicações.
 
-I have professional experience developing web applications using Java and Spring Boot, working on backend development, REST APIs, database integration, Dockerized environments and frontend development with Vue.js.
-
-Currently, I'm focused on improving my skills in Java ecosystem, software architecture and backend development while building personal projects with modern technologies.
+Atualmente estou aprofundando meus conhecimentos em Spring Security, arquitetura de software, testes automatizados e boas práticas de desenvolvimento.
 
 ---
 
-## 💼 About Me
-
-- 🎓 Software Engineer – Federal University of Ceará (UFC)
-- 💻 Full Stack Development Internship with focus on Java Backend
-- 📚 Postgraduate student in Data Analysis
-- 📚 Postgraduate student in Systems Development
-- 🌱 Currently studying Spring Security, Docker and Software Architecture
-- 🚀 Looking for opportunities as a Java Backend Developer
-
----
-
-## 🛠 Tech Stack
+## 🚀 Competências
 
 ### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,spring,maven"/>
-</p>
+![Java](https://skillicons.dev/icons?i=java,spring,maven)
 
 ### Frontend
+![Frontend](https://skillicons.dev/icons?i=vue,react,nextjs,angular,ts,js)
 
-<p>
-<img src="https://skillicons.dev/icons?i=vue,react,nextjs,angular,ts,js"/>
-</p>
+### Banco de Dados
+![Banco](https://skillicons.dev/icons?i=postgres,mysql)
 
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql"/>
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,gitlab,docker,linux,vscode,idea"/>
-</p>
+### Ferramentas
+![Ferramentas](https://skillicons.dev/icons?i=git,gitlab,docker,linux,idea,vscode)
 
 ---
 
-## 📚 Currently Learning
+## 📌 Projetos em destaque
 
-- Spring Security
-- JWT Authentication
-- Docker
-- Clean Architecture
-- Unit Testing with JUnit
-- Microservices
+> Em desenvolvimento...
+
+Em breve esta seção contará com projetos desenvolvidos utilizando Java, Spring Boot, PostgreSQL, Docker e outras tecnologias do ecossistema Java.
 
 ---
 
-## 📌 Featured Projects
-
-Soon...
-
-I'm currently building new projects focused on Java and Spring Boot.
-
----
-
-## 📊 GitHub Stats
+## 📊 Estatísticas
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=walesson-sg&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=walesson-sg&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walesson-sg&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walesson-sg&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
 ---
 
-## 📫 Contact
+## 📫 Contato
 
-<a href="https://linkedin.com/in/walesson-samuel-085781186">
-LinkedIn
-</a>
-
-<br>
-
-📧 your@email.com
+- 💼 LinkedIn: https://www.linkedin.com/in/walesson-samuel/
+- 📧 Email: walesson.sg@gmail.com
 
 
 
