@@ -1,4 +1,4 @@
-# Walesson Samuel - Engenheiro de Software
+# Walesson Samuel — Engenheiro de Software
 ### Desenvolvedor Java | Backend | Full Stack
 
 Sou formado em Engenharia de Software pela Universidade Federal do Ceará (UFC) e atuo no desenvolvimento de aplicações web, com foco no ecossistema Java.
