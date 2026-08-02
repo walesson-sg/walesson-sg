@@ -29,8 +29,6 @@ Atualmente estou aprofundando meus conhecimentos em Spring Security, arquitetura
 
 > Em desenvolvimento...
 
-Em breve esta seção contará com projetos desenvolvidos utilizando Java, Spring Boot, PostgreSQL, Docker e outras tecnologias do ecossistema Java.
-
 ---
 
 ## 📊 Estatísticas
